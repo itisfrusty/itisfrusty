@@ -41,7 +41,7 @@
   
 </td></tr></table> 
 
-🎈 Remark: I will not say that I am an expert in all the areas presented, but I have worked with them at a certain level and have an idea for what and how it works! In addition, I happened to write applications for the Adroid platform in Java, moreover, to the presented database.
+🎈 Remark: I will not say that I am an expert in all the areas presented, but I have worked with them at a certain level and have an idea for what and how it works! In addition, I happened to write applications for the Android platform in Java, moreover, to the presented database.
 
 ### Connect with me:
 <div align="center">
